@@ -21,7 +21,7 @@ DEFAULT_LANG = 'en'
 DEFAULT_DATE = 'fs'
 
 # Specify name of a theme installed via the pelican-themes tool
-THEME = "/Users/marine/ownCloud/Dev/python/nest"
+THEME = "./theme/nest"
 NEST_HEADER_LOGO = '/images/logo.png'
 NEST_INDEX_HEADER_TITLE  = 'Recent activities'
 NEST_INDEX_HEADER_SUBTITLE  = 'I am currently a Research Scientist at the Earth Life Science Institute, in Tokyo Institute of Technology.'

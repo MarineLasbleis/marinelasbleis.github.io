@@ -3,7 +3,7 @@ slug: research
 date: 2018-06-14
 lang: en
 menulabel: Research
-Illustration: DSC_1419.JPG
+Illustration: DSC_0741.JPG
 sortorder: 1
 
 ## Research interests
