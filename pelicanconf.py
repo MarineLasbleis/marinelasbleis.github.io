@@ -49,8 +49,8 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = False
 
-#PLUGIN_PATHS = ['/Users/marine/ownCloud/Dev/python/pelican-plugins']
-#PLUGINS = ['photos']
+PLUGIN_PATHS = ['/Users/marine/ownCloud/Dev/python/pelican-plugins']
+PLUGINS = ['render_math']
 
 
 # Uncomment following line if you want document-relative URLs when developing
