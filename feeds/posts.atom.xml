@@ -1,66 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Marine Lasbleis - posts</title><link href="/" rel="alternate"></link><link href="/feeds/posts.atom.xml" rel="self"></link><id>/</id><updated>2018-07-12T15:54:57+02:00</updated><entry><title>WPI Visit 2018</title><link href="/WPI-visit-2018.html" rel="alternate"></link><published>2018-07-12T15:54:57+02:00</published><updated>2018-07-12T15:54:57+02:00</updated><author><name>Marine Lasbleis</name></author><id>tag:None,2018-07-12:/WPI-visit-2018.html</id><summary type="html">&lt;p&gt;WPI visit on July 23-25&lt;/p&gt;</summary><content type="html">&lt;p&gt;ELSI is part of the World Premier International Research Center Initiative (WPI) of the Ministry of Education, Culture, Sports, Science and Technology (MEXT.) in Japan. Every year or almost, all researchers and professors in ELSI are presenting their research to a WPI committee. &lt;/p&gt;
-&lt;p&gt;This year, I will be presenting my on-going research on the stratified layers in the Earth's core at this meeting!&lt;/p&gt;</content><category term="summer"></category><category term="2018"></category><category term="WPI"></category></entry><entry><title>Summer 2018 in Tokyo</title><link href="/summer-2018.html" rel="alternate"></link><published>2018-07-12T15:52:01+02:00</published><updated>2018-07-12T15:52:01+02:00</updated><author><name>Marine Lasbleis</name></author><id>tag:None,2018-07-12:/summer-2018.html</id><summary type="html">&lt;p&gt;Mathilde Kervazo, from Nantes, is joigning ELSI for the summer.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Starting mid July, Mathilde Kervazo will join ELSI for a month, to work with me on inner core dynamics. She then will go back to France and be a PhD student at the Laboratoire de Géodynamique et Planétologie in Nantes. &lt;/p&gt;</content><category term="summer"></category><category term="2018"></category><category term="students"></category></entry><entry><title>Study of the Earth Deep Interior meeting 2018</title><link href="/sedi-2018-talk.html" rel="alternate"></link><published>2018-06-16T14:10:40+02:00</published><updated>2018-06-16T14:10:40+02:00</updated><author><name>Marine Lasbleis</name></author><id>tag:None,2018-06-16:/sedi-2018-talk.html</id><summary type="html">&lt;p&gt;I'll be at the SEDI meeting 2018 in Edmonton, Canada, in July.&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'll be at the SEDI meeting 2018 in Edmonton, Canada, in July! &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Marine Lasbleis - posts</title><link href="/" rel="alternate"></link><link href="/feeds/posts.atom.xml" rel="self"></link><id>/</id><updated>2018-09-09T21:50:28+02:00</updated><entry><title>Study of the Earth Deep Interior meeting 2018</title><link href="/sedi-2018-talk.html" rel="alternate"></link><published>2018-09-09T21:50:28+02:00</published><updated>2018-09-09T21:50:28+02:00</updated><author><name>Marine Lasbleis</name></author><id>tag:None,2018-09-09:/sedi-2018-talk.html</id><summary type="html">&lt;p&gt;I'll be at the SEDI meeting 2018 in Edmonton, Canada, in July.&lt;/p&gt;</summary><content type="html">&lt;p&gt;I'll be at the SEDI meeting 2018 in Edmonton, Canada, in July! &lt;/p&gt;
 &lt;p&gt;I will present my last publication (GrowYourIC) and the last updates to compare seismic observations and geodynamical models for the inner core. &lt;/p&gt;
 &lt;p&gt;More info on the meeting on &lt;a href="https://sedi2018.sciencesconf.org/"&gt;their website&lt;/a&gt;.&lt;/p&gt;</content><category term="conference"></category><category term="2018"></category></entry><entry><title>New website</title><link href="/new-website.html" rel="alternate"></link><published>2018-06-14T00:00:00+02:00</published><updated>2018-06-14T00:00:00+02:00</updated><author><name>Marine Lasbleis</name></author><id>tag:None,2018-06-14:/new-website.html</id><summary type="html">&lt;p&gt;This is the first article on my new website!&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the first article on my new website!&lt;br&gt;
 I'll update this webpage to tell you more about my research interests and my academic news. &lt;/p&gt;
 &lt;p&gt;I have been reading a lot about building static pages. My old website was a single html page with css that I wrote myself (with things copied from other websites, trying to understand the basics of html). Since I'm using Python almost everyday, I thought that using a python-based thing would make more sense. At first, I followed a couple of tutorials for django, then decided it was too complicated for my need. But I may come back to it if I want to build a dynamical website with some python included... We'll see.&lt;br&gt;
 I've been reading some other blogs, looking online for more info about pelican, such as &lt;a href="https://peterwittek.com/academic-website-with-pelican.html"&gt;this one&lt;/a&gt; and &lt;a href="http://szhorvat.net/pelican/a-new-website-with-pelican.html"&gt;this other one&lt;/a&gt; and thinking about what I need and what can wait. Amongst the couple of things people are interested, there is bibtex... It's good to know that it's possible to use it to build nice bibliographies. However, I may wait until either writing longer blog posts with bibliography, or having more publications to present on my Research page! &lt;br&gt;
 Oh, and with pelican, I can even add maths... 
-&lt;/p&gt;
-&lt;div class="math"&gt;$$ \int_0^x dx = x $$&lt;/div&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
-    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</content><category term="new"></category></entry></feed>
+$$ \int_0^x dx = x $$&lt;/p&gt;</content><category term="new"></category></entry></feed>
