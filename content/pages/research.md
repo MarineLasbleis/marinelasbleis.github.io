@@ -1,6 +1,5 @@
 title: Research interests and projects
 slug: research
-date: 2018-06-14
 lang: en
 menulabel: Research
 Illustration: DSC_0741.JPG
@@ -16,11 +15,13 @@ I have ongoing collaborations with: John Hernlund (Tokyo Tech), Kei Hirose (Toky
 
 ## Up-to-date CV
 
-Updated on 14/06/2018 [CV]({filename}/files/CV.pdf)
+September 2018: [CV]({filename}/files/CV.pdf)
 
 ## Research positions
 
-- 2017 - now: ELSI Research Scientist at Earth-Life Science Institute (Tokyo Institute of Technology, Tokyo, Japan)
+- 2018 - now: post doctoral researcher at Laboratoire de Planetologie et Geodynamique de Nantes (Nantes, France)
+
+- 2017 - 2018: ELSI Research Scientist at Earth-Life Science Institute (Tokyo Institute of Technology, Tokyo, Japan)
 
 - 2015 - 2017: JSPS Fellowship FY2015 at Earth-Life Science Institute (Tokyo Institute of Technology, Tokyo, Japan)
 
