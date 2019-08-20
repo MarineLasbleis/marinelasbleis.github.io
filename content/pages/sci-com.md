@@ -8,11 +8,12 @@ sortorder: 2
 
 
 
-This year, I presented my research topics during several events destinated to a general audience: the ELSIOriginsI event (pictures and video soon to be uploaded) and at a [Nerd Nite Tokyo](https://tokyo.nerdnite.com/). 
+
+In 2017, I presented my research topics during several events destinated to a general audience: the ELSIOriginsI event (pictures and video soon to be uploaded) and at a [Nerd Nite Tokyo](https://tokyo.nerdnite.com/). 
 
 --- 
 
-For people who can read French, I am also involved in a new blog on the structure/composition/dynamics of the interior of planets, with a particular focus for the magnetic field. It's called ["Tout là bas en dessous"](https://toutlabasendessous.wordpress.com/).
+For people who can read French, I am also involved in a blog on the structure/composition/dynamics of the interior of planets, with a particular focus for the magnetic field. It's called ["Tout là bas en dessous"](https://toutlabasendessous.wordpress.com/).
 
 ---
 

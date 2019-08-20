@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Marine Lasbleis'
 SITENAME = 'Marine Lasbleis'
-SITEURL = ''
+SITEURL = 'http://marinelasbleis.github.io'
 
 SITESUBTITLE = u'Planetary Interior Researcher'
 

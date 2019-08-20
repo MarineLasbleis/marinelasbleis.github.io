@@ -6,13 +6,18 @@ sortorder: 28
 
 ## Email
 
-marine.lasbleis .at. univ-nantes . fr
+marine.lasbleis .at. univ-nantes .dot. fr
 
 ## Mail address
 
-Laboratoire de Planétologie et Géodynamique
+Laboratoire de Planétologie et Géodynamique (LPG)
+
 Bât. 4
+
 Faculté des Sciences et Techniques
+
 2 rue de la Houssinière - BP 92208
+
 44322 Nantes Cedex 3
+
 France

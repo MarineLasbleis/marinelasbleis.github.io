@@ -7,7 +7,7 @@ sortorder: 1
 
 ## Research interests
 
-I'm interested in the dynamics of the interior of planets, and its evolution since the planetary formation, with a particular interest to the planetary cores and the evolution of the magnetic field.
+I'm interested in the dynamics of planetary interiors, and its evolution since planets' formation, with a particular interest in the planetary cores and the evolution of the magnetic field.
 
 During my PhD, I have studied the dynamics in the Earth's inner core and its relationship with the Earth thermal and chemical history. In my post docs, I am studying the effect of melts and co existence of melts and solids on the dynamics of deep Earth. This is particularly interesting for the inner core formation and for the magma ocean evolutions. I have also started to explore the thermal and chemical history of other planets in the solar system and outside. I am working with astronomers looking at exoplanets to try to understand the link between atmosphere and internal properties of planets.
 
@@ -15,15 +15,17 @@ I have ongoing collaborations with: John Hernlund (Tokyo Tech), Kei Hirose (Toky
 
 ## Up-to-date CV
 
-September 2018: [CV]({filename}/files/CV.pdf)
+[link to pdf: CV]({filename}/files/CV.pdf)
 
 ## Research positions
 
-- 2018 - now: post doctoral researcher at Laboratoire de Planetologie et Geodynamique de Nantes (Nantes, France)
+- March 2019 - now: MSCA-IF Post doctoral fellow at Laboratoire de Planetologie et Geodynamique de Nantes (Nantes, France)
 
-- 2017 - 2018: ELSI Research Scientist at Earth-Life Science Institute (Tokyo Institute of Technology, Tokyo, Japan)
+- Sept. 2018 - March 2019: post doctoral researcher at Laboratoire de Planetologie et Geodynamique de Nantes (Nantes, France)
 
-- 2015 - 2017: JSPS Fellowship FY2015 at Earth-Life Science Institute (Tokyo Institute of Technology, Tokyo, Japan)
+- Apr. 2017 - Aug. 2018: ELSI Research Scientist at Earth-Life Science Institute (Tokyo Institute of Technology, Tokyo, Japan)
+
+- Apr. 2015 - Apr. 2017: JSPS Fellowship FY2015 at Earth-Life Science Institute (Tokyo Institute of Technology, Tokyo, Japan)
 
 - Dec. 2014: PhD at Laboratoire de Geologie de Lyon, Ecole Normale Superieure de Lyon, France. "Dynamique et evolution de la graine terrestre" (dynamics and evolution of the Earth's inner core) with Stephane Labrosse. Details (research and teaching)
 
