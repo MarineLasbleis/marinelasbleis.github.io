@@ -1,5 +1,5 @@
 title: MSCA-IF
-slug: new-job
+slug: msca
 date: 2019-08-19
 tags: new, position, job, msca, EU
 summary: I started my project InDyMag on March this year

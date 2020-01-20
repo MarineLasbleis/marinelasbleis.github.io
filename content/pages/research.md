@@ -32,6 +32,10 @@ I have ongoing collaborations with: John Hernlund (Tokyo Tech), Kei Hirose (Toky
 
 ## Recent publications
 
+- 2020 - "The Fate of Liquids Trapped During the Earth's Inner Core Growth" **M. Lasbleis**, M. Kervazo, G. Choblet, Geophysical Research Letters,  47, e2019GL085654. [DOI:10.1029/2019GL085654](https://doi.org/10.1029/2019GL085654), [arxiv](https://arxiv.org/abs/1912.12258) [github repository](https://github.com/MarineLasbleis/mushdynamics)
+
+- 2020 - "Fluid Dynamics of Earth’s Core: Geodynamo, Inner Core Dynamics, Core Formation", R. Deguen, **M. Lasbleis**, In: Le Bars M., Lecoanet D. (eds) Fluid Mechanics of Planets and Stars. CISM International Centre for Mechanical Sciences (Courses and Lectures), vol 595. Springer, Cham [Chapter](https://link.springer.com/chapter/10.1007%2F978-3-030-22074-7_5) [arxiv](https://arxiv.org/abs/1905.10416)
+
 - 2017 - *GrowYourIC: a step towards a coherent model of seismic structure*, **M. Lasbleis**, L. Waszek, E. Day. Geochemistry, Geophysics, Geosystems, 18 (11), 4016-4026. [Github repository](https://github.com/MarineLasbleis/GrowYourIC) 
 
 - 2017 - *The language of exoplanet ranking metrics needs to change*, E. Tasker, J. Tan, K. Heng, S. Kane, D. Spiegel, R. Brasser, A. Casey, S. Desch, C. Dorn, J. Hernlund, C. Houser, M. Laneuville, **M. Lasbleis**, A.-S. Libert, L. Noack, C. Unterborn & J. Wicks. Nature Astronomy, 1 (2), 0042.
