@@ -32,7 +32,7 @@ I have ongoing collaborations with: John Hernlund (Tokyo Tech), Kei Hirose (Toky
 
 ## Recent publications
 
-- 2020 - "Parameterisations of interior properties of rocky planets. An investigation of planets with Earth-like compositions but variable iron content" L. Noack, **M. Lasbleis**, Astronomy and Astrophysics. Accepted on April 2020. [DOI:10.1051/0004-6361/202037723](https://doi.org/10.1051/0004-6361/202037723 )
+- 2020 - "Parameterisations of interior properties of rocky planets. An investigation of planets with Earth-like compositions but variable iron content" L. Noack, **M. Lasbleis**, Astronomy and Astrophysics. Astronomy&Astrophysics 638 A129 (2020) [DOI:10.1051/0004-6361/202037723](https://doi.org/10.1051/0004-6361/202037723 )
 
 - 2020 - "The Fate of Liquids Trapped During the Earth's Inner Core Growth" **M. Lasbleis**, M. Kervazo, G. Choblet, Geophysical Research Letters,  47, e2019GL085654. [DOI:10.1029/2019GL085654](https://doi.org/10.1029/2019GL085654), [arxiv](https://arxiv.org/abs/1912.12258) [github repository](https://github.com/MarineLasbleis/mushdynamics)
 

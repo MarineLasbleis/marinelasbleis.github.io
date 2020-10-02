@@ -16,6 +16,23 @@ You'll find on this page a couple of ressources from my past and current work. F
 
 ![Published dynamics]({filename}/images/IC_dyn.png)
 
+More info here: 
+
+- 2015 - *Building a regime diagram for the Earth's inner core*, **M Lasbleis**, R Deguen, Physics of the Earth and Planetary Interiors, 247, 80-93.
+
+- 2015 - *Earth's inner core dynamics induced by the Lorentz force*, **M Lasbleis**, R Deguen, P Cardin, S Labrosse, Geophysical Journal International, 202 (1), 548-563.
+
 ## Comparing observations and dynamics
 
 ![Package GrowYourIC]({filename}/images/code_scheme.png)
+
+More info here:
+
+- 2017 - *GrowYourIC: a step towards a coherent model of seismic structure*, **M. Lasbleis**, L. Waszek, E. Day. Geochemistry, Geophysics, Geosystems, 18 (11), 4016-4026. [Github repository](https://github.com/MarineLasbleis/GrowYourIC) 
+
+
+## Inner core compaction
+
+More info here: 
+
+- 2020 - "The Fate of Liquids Trapped During the Earth's Inner Core Growth" **M. Lasbleis**, M. Kervazo, G. Choblet, Geophysical Research Letters,  47, e2019GL085654. [DOI:10.1029/2019GL085654](https://doi.org/10.1029/2019GL085654), [arxiv](https://arxiv.org/abs/1912.12258) [github repository](https://github.com/MarineLasbleis/mushdynamics)

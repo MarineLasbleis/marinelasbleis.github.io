@@ -6,7 +6,9 @@ Menulabel: Science com.
 Illustration: FdS3.jpg
 sortorder: 2
 
+Interacting with the public is very important for me. Small scales experiments are wonderful to introduce fluid dynamics to everyone and I have been presenting them to the public since 2012 during my PhD in Lyon. 
 
+---
 
 
 In 2017, I presented my research topics during several events destinated to a general audience: the ELSIOriginsI event (pictures and video soon to be uploaded) and at a [Nerd Nite Tokyo](https://tokyo.nerdnite.com/). 
