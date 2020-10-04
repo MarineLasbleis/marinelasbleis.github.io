@@ -1,8 +1,8 @@
 title: IndyMag project
 slug: indymag
 Menulabel: IndyMag
-Illustration: Earth.png
-sortorder: 3
+Illustration: radius_exo.png
+sortorder: 5
 
 ## IndyMag Project, a MSCA-IF project
 
