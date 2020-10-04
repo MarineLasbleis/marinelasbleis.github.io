@@ -52,7 +52,7 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = False
 
-PLUGIN_PATHS = ['/Users/marine/ownCloud/Dev/python/pelican-plugins']
+PLUGIN_PATHS = ['/home/lasbleis-m/UNCloud/Dev/python/pelican-plugins']
 PLUGINS = [] #['render_math']
 
 
