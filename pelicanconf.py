@@ -12,7 +12,7 @@ SITESUBTITLE = u'Planetary Interior Researcher'
 PATH = 'content'
 STATIC_PATHS = ['images', 'files']
 
-DISPLAY_PAGES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 PAGES_SORT_ATTRIBUTE = 'sortorder'
 
 TIMEZONE = 'Europe/Paris'
