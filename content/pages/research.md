@@ -11,7 +11,8 @@ I'm interested in the dynamics of planetary interiors, and its evolution since p
 
 During my PhD, I have studied the dynamics in the Earth's inner core and its relationship with the Earth thermal and chemical history. In my post docs, I am studying the effect of melts and co existence of melts and solids on the dynamics of deep Earth. This is particularly interesting for the inner core formation and for the magma ocean evolutions. I have also started to explore the thermal and chemical history of other planets in the solar system and outside. I am working with astronomers looking at exoplanets to try to understand the link between atmosphere and internal properties of planets.
 
-I have ongoing collaborations with: John Hernlund (Tokyo Tech), Kei Hirose (Tokyo Tech), Matthieu Laneuville (Tokyo Tech), George Helffrich (Tokyo Tech), Ramon Brasser (Tokyo Tech), Elizabeth Tasker (JAXA), Renaud Deguen (Lyon), Stéphane Labrosse (Lyon), Lauren Waszek (Univ. New Mexico / ANU), Elizabeth Day (Imperial College London), Lena Noack (Free University, Berlin).
+<!-- I have ongoing collaborations with: John Hernlund (Tokyo Tech), Kei Hirose (Tokyo Tech), Matthieu Laneuville (Tokyo Tech), George Helffrich (Tokyo Tech), Ramon Brasser (Tokyo Tech), Elizabeth Tasker (JAXA), Renaud Deguen (Lyon), Stéphane Labrosse (Lyon), Lauren Waszek (Univ. New Mexico / ANU), Elizabeth Day (Imperial College London), Lena Noack (Free University, Berlin).
+-->
 
 ## Up-to-date CV
 
