@@ -6,7 +6,7 @@ AUTHOR = 'Marine Lasbleis'
 SITENAME = 'Marine Lasbleis'
 SITEURL = 'http://marinelasbleis.github.io'
 
-SITESUBTITLE = u'Planetary Interior Researcher'
+SITESUBTITLE = u'Fluid dynamics Researcher'
 
 
 PATH = 'content'
@@ -27,7 +27,7 @@ LOCALE = 'en_US.UTF-8' # On Unix/Linux
 THEME = "./theme/nest"
 NEST_HEADER_LOGO = '/images/logo.png'
 NEST_INDEX_HEADER_TITLE  = 'Recent activities'
-NEST_INDEX_HEADER_SUBTITLE  = 'I am currently a Post Doctoral researcher at the Laboratoire de Planétologie et Géodynamique, Université de Nantes'
+NEST_INDEX_HEADER_SUBTITLE  = 'I am a fluid dynamics researcher, interested in numerical modeling of fluid flows, and a Python enthousiast.'
 NEST_INDEX_CONTENT_TITLE  = 'Recent posts'
 NEST_COPYRIGHT = "CC Marine Lasbleis"
 NEST_HEADER_IMAGES = "DSC_0004.JPG"

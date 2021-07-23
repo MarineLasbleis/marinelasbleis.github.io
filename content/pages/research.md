@@ -5,22 +5,22 @@ menulabel: Research
 Illustration: DSC_0741.JPG
 sortorder: 1
 
-## Research interests
+## Previous research
 
-I'm interested in the dynamics of planetary interiors, and its evolution since planets' formation, with a particular interest in the planetary cores and the evolution of the magnetic field.
+In the past 10 years, I have been studying the dynamics of planetary interiors, and its evolution since planets' formation, with a particular interest in the planetary cores and the evolution of the magnetic field.
 
 During my PhD, I have studied the dynamics in the Earth's inner core and its relationship with the Earth thermal and chemical history. In my post docs, I am studying the effect of melts and co existence of melts and solids on the dynamics of deep Earth. This is particularly interesting for the inner core formation and for the magma ocean evolutions. I have also started to explore the thermal and chemical history of other planets in the solar system and outside. I am working with astronomers looking at exoplanets to try to understand the link between atmosphere and internal properties of planets.
 
 <!-- I have ongoing collaborations with: John Hernlund (Tokyo Tech), Kei Hirose (Tokyo Tech), Matthieu Laneuville (Tokyo Tech), George Helffrich (Tokyo Tech), Ramon Brasser (Tokyo Tech), Elizabeth Tasker (JAXA), Renaud Deguen (Lyon), Stéphane Labrosse (Lyon), Lauren Waszek (Univ. New Mexico / ANU), Elizabeth Day (Imperial College London), Lena Noack (Free University, Berlin).
 -->
 
-## Up-to-date CV
+## Academic CV
 
 [link to pdf: CV]({filename}/files/CV.pdf)
 
 ## Research positions
 
-- March 2019 - now: MSCA-IF Post doctoral fellow at Laboratoire de Planetologie et Geodynamique de Nantes (Nantes, France)
+- March 2019 - June 2021: MSCA-IF Post doctoral fellow at Laboratoire de Planetologie et Geodynamique de Nantes (Nantes, France)
 
 - Sept. 2018 - March 2019: post doctoral researcher at Laboratoire de Planetologie et Geodynamique de Nantes (Nantes, France)
 
